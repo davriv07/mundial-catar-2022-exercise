@@ -1,7 +1,7 @@
 # mundial-catar-2022-exercise:
 https://github.com/rezarahiminia/free-api-worldcup2022
  
-React.js - Node.js aplication that consumes WORLD CUP API - 2022 DATA SET in order to show grupos del mundial, y resultados de los encuentros.
+React.js - Express.js aplication that consumes WORLD CUP API - 2022 DATA SET in order to show world cup stages phase, and  their matches' results.
 
 - App generated with vite.
 - Axios, material ui, react-router-dom.
